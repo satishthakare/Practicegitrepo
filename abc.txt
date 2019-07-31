@@ -3,3 +3,5 @@
 
 
 echo " Hello ,How R U?"
+ 
+target to become a deveops and aws certified engineer with linux operations
